@@ -7,7 +7,7 @@
 * 🪄 프론트엔드 개발자 공부 중
 * 💡 웹에 관심이 많은 사람
 * 👩🏻‍💻 클라이언트를 만족시키는 서비스를 만드는 것이 목표
-* 🫧 mbti : ESTJ
+* 🫧 Working on a computer is cool. I don't fight you, I remember everything, I don't steal my beer. -Paul Leary
 
 ### ✨기술 스택
 <div>
@@ -20,6 +20,6 @@
 ### ⛵기술 블로그 
 <a href="https://sunwoo8653.tistory.com/">https://sunwoo8653.tistory.com/</a>
 
-### Contact me..📧
+### Contact me.. 📧
 <a href="mailto:sunwoo40101@gmail.com">sunwoo40101@gmail.com</a><br>
 <a href="mailto:susan40101@naver.com">susan40101@naver.com</a>
