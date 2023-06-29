@@ -7,7 +7,7 @@
 * 🪄 프론트엔드 개발자 공부 중
 * 💡 웹에 관심이 많은 사람
 * 👩🏻‍💻 클라이언트를 만족시키는 서비스를 만드는 것이 목표
-* 🫧 <em color:#808080;>Working on a computer is cool. I don't fight you, I remember everything, I don't steal my beer. -Paul Leary</em>
+* 🫧 <em color:808080;>Working on a computer is cool. I don't fight you, I remember everything, I don't steal my beer. -Paul Leary</em>
 
 ### ✨기술 스택
 <div>
