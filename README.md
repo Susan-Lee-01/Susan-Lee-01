@@ -17,8 +17,9 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=PYTHON&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp; 
-
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Susan-Lee-01)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⛵기술 블로그 
 <a href="https://sunwoo8653.tistory.com/">https://sunwoo8653.tistory.com/</a>
