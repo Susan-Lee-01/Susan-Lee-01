@@ -1,8 +1,5 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!%20💁🏻‍♀️&fontSize=60&fontAlignY=35&desc=I'm%20SunWoo%20Lee%20😆&descSize=30&descAlignY=65&animation=fadeIn" />	
-</div>
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!%20💁🏻‍♀️&fontSize=60&fontAlignY=35&desc=I'm%20SunWoo%20Lee%20😆&descSize=30&descAlignY=65&animation=fadeIn" />	
   <h3>🐣 Introduce</h3>
   <p>안녕하세요, 웹을 빛나게 하는 프론트엔드 개발자가 꿈인 이선우입니다. 🌟</p>
 </div>
