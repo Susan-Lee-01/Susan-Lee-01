@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!%20💁🏻‍♀️&fontAlignY=40&desc=I'm%20SunWoo-Lee%20😆&descSize=30&descAlignY=65&animation=fadeIn" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!%20💁🏻‍♀️&fontSize=60&fontAlignY=35&desc=I'm%20SunWoo%20Lee%20😆&descSize=30&descAlignY=65&animation=fadeIn" />	
 </div>
 
 <div align="center">
@@ -38,16 +38,26 @@
 <br/>
 <div align="center">
   <h3>⛵️ About Me..</h3>
-  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" style="height : auto; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Portfolio-A0AFFF?style=flat&logo=micro.blog&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Resume-FFB4B9?style=flat&logo=readme&logoColor=white" style="height : auto; margin-left : 10px;"/>
+  <a href="https://www.notion.so/sunnyafterarain/HOME-62d865e8dac642cda425b6b5fec07ae7">
+    <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" style="height : auto; margin-right : 10px;"/>
+  </a>
+  <a href="https://www.notion.so/sunnyafterarain/e2bd8b5c7877466fb1d335013118fbcb">
+    <img src="https://img.shields.io/badge/Portfolio-A0AFFF?style=flat&logo=micro.blog&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  <a href="https://www.notion.so/sunnyafterarain/3556e369569c460199874a9301562f68">
+    <img src="https://img.shields.io/badge/Resume-FFB4B9?style=flat&logo=readme&logoColor=white" style="height : auto; margin-left : 10px;"/>
+  </a>
 </div>
 
 <br/>
 <div align="center">
   <h3>📧 Contact me</h3>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link:mailto=sunwoo40101@gmail.com" style="height : auto; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Nmail-22D172?style=flat&logo=mail.ru&logoColor=white&link:mailto=susan40101@naver.com" style="height : auto; margin-left : 10px;"/>
+  <a href="mailto:sunwoo40101@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" style="height : auto; margin-right : 10px;"/>
+  </a>
+  <a href="mailto:susan40101@naver.com">
+    <img src="https://img.shields.io/badge/Nmail-22D172?style=flat&logo=mail.ru&logoColor=white" style="height : auto; margin-left : 10px;"/>
+  </a>
 </div>
 
 
@@ -58,4 +68,3 @@
     🫧 <em>Working on a computer is cool. It doesn't fight with you, it remembers everything, it doesn't steal my beer. -Paul Leary</em>
   </p>
 </div>
-
