@@ -34,7 +34,7 @@
 
 <br/>
 <div align="center">
-  <h3>⛵️ About Me..</h3>
+  <h3>⛵️ About Me</h3>
   <a href="https://www.notion.so/sunnyafterarain/HOME-62d865e8dac642cda425b6b5fec07ae7">
     <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" style="height : auto; margin-right : 10px;"/>
   </a>
