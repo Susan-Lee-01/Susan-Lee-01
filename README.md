@@ -35,13 +35,13 @@
 <br/>
 <div align="center">
   <h3>⛵️ About Me</h3>
-  <a href="https://www.notion.so/sunnyafterarain/HOME-62d865e8dac642cda425b6b5fec07ae7">
+  <a href="https://sunnyafterarain.notion.site/HOME-62d865e8dac642cda425b6b5fec07ae7">
     <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" style="height : auto; margin-right : 10px;"/>
   </a>
-  <a href="https://www.notion.so/sunnyafterarain/e2bd8b5c7877466fb1d335013118fbcb">
+  <a href="https://sunnyafterarain.notion.site/e2bd8b5c7877466fb1d335013118fbcb">
     <img src="https://img.shields.io/badge/Portfolio-A0AFFF?style=flat&logo=micro.blog&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
-  <a href="https://www.notion.so/sunnyafterarain/3556e369569c460199874a9301562f68">
+  <a href="https://sunnyafterarain.notion.site/3556e369569c460199874a9301562f68">
     <img src="https://img.shields.io/badge/Resume-FFB4B9?style=flat&logo=readme&logoColor=white" style="height : auto; margin-left : 10px;"/>
   </a>
 </div>
